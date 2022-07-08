@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Network Automation (NetDevOps) projects with Python, Go, Ansible
+- 🌱 I’m currently learning Kubernetes 
+- 📫 How to reach me: ndevabn@gmail.com
 <!--
 **ndeva/ndeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
