@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Network Automation (NetDevOps) projects with Python, Go, Ansible
+- 🔭 I’m currently working on DevOps and Automation projects with Python, Go, Ansible & Terraform
 - 🌱 I’m currently learning Kubernetes 
 - 📫 How to reach me: ndevabn@gmail.com
 <!--
