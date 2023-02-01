@@ -6,7 +6,7 @@ DevOps/Platform/SRE
 
 * 🌍  I'm based in Nairobi
 * ✉️  You can contact me at [ndevabn@gmail.com](mailto:ndevabn@gmail.com)
-* 🧠  I'm learning GitOps (ArgoCD & Flux) and Pulumi as an Iac tool
+* 🧠  I'm learning everything DevOps/SRE
 * 🤝  I'm open to collaborating on Containers and their orchestration projects
 
 ### Skills
